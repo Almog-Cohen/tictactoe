@@ -1,0 +1,19 @@
+.card-input {
+  margin: 10px 0;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.game-container {
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.card-content {
+  padding: 10px;
+}
